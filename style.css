@@ -1,0 +1,36 @@
+/* Asi tiramos comentarios*/
+
+/* Selector de etiqueta*/
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(253,220,158,255);
+}
+#mono{
+    height: 200px;
+}
+
+header{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/*Selectores avanzados, se le va dando mas deep hasta llegar a lo que quermos modificar*/
+
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: crimson;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: left
+}
